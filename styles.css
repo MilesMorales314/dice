@@ -18,7 +18,7 @@ body {
 
 img {
     width: 5rem;
-    min-width: 8px;
+    min-width: 16px;
     background-color: white;
     margin: 2rem;
     border-width: 4px;
@@ -28,4 +28,5 @@ img {
 button {
     margin: 0 auto;
     font-size: 2rem;
+    min-width: 12px;
 }
