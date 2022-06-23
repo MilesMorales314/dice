@@ -14,6 +14,9 @@ body {
     font-size: 5rem;
     font-weight: bold;
     color: white;
+    
+    display: grid;
+    place-items: center;
 }
 
 img {
@@ -26,7 +29,6 @@ img {
 }
 
 button {
-    margin: 0 auto;
     font-size: 2rem;
     min-width: 12px;
 }
